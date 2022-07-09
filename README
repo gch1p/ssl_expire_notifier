@@ -1,0 +1,4 @@
+Simple PHP script that checks SSL certificates expiration dates for a list of given domains
+and notifies you via Telegram if some of them are about to expire.
+
+Supposed to be run by cron daily or so.
