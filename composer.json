@@ -1,0 +1,11 @@
+{
+  "require": {
+    "ext-openssl": "*",
+    "ext-json": "*"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  }
+}
