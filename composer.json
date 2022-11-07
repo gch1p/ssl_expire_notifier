@@ -1,7 +1,8 @@
 {
   "require": {
     "ext-openssl": "*",
-    "ext-json": "*"
+    "ext-json": "*",
+    "io-developer/php-whois": "^4.1"
   },
   "config": {
     "platform": {
